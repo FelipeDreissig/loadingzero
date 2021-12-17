@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/welcome/",
-    "title": "Welcome to Loading Zero",
-    "description": "Welcome to our new blog, Loading Zero. We hope you enjoy \nreading what we have to say!",
+    "title": "Bem vindo ao Loading Zero",
+    "description": "Este blog tem o objetivo de ser repositário de ideias/curiosidades no que se refere a dados. Não tem nenhuma relação científica, portanto é um espaço livre e sem responsabildiade científica.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Felipe Dreissig",
+        "url": {}
       }
     ],
-    "date": "2021-12-11",
+    "date": "2021-12-17",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-12-11T21:08:10-03:00",
-    "input_file": {}
+    "last_modified": "2021-12-17T01:41:25-03:00",
+    "input_file": "welcome.knit.md"
   }
 ]

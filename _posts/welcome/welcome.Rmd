@@ -1,14 +1,13 @@
 ---
-title: "Welcome to Loading Zero"
+title: "Bem vindo ao Loading Zero"
 description: |
-  Welcome to our new blog, Loading Zero. We hope you enjoy 
-  reading what we have to say!
+  Este blog tem o objetivo de ser repositário de ideias/curiosidades no que se refere a dados. Não tem nenhuma relação científica, portanto é um espaço livre e sem responsabildiade científica.
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: 12-11-2021
+  - name: Felipe Dreissig
+    affiliation: Sem afiliação.
+    
+      
+date: "`r lubridate::today()`"
 output:
   distill::distill_article:
     self_contained: false
@@ -21,6 +20,3 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/blog.html
 
 ```
-
-
-
